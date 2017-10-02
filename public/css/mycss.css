@@ -1,0 +1,44 @@
+.fb
+{
+	background-color: #3b5998;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.fb:hover, .fb:visited, .gh:hover, .gh:visited, .li:hover, .li:visited
+{
+	color: white;
+	text-decoration: none;
+}
+
+.gh
+{
+	background-color: #333;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.li
+{
+	background-color: #0077B5;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+td
+{
+	text-align: center;
+    width: 30%;
+}
+
+
+
